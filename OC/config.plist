@@ -1645,7 +1645,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 alcid=1 npci=0x3000 -no_compat_check debug=0x100 igfxonln=1</string>
+				<string>swd_panic=1 keepsyms=1 alcid=1 npci=0x3000 -no_compat_check debug=0x100 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
